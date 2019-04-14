@@ -4,7 +4,7 @@
 
 
 
-This is a CNC controller specially design to address the needs of the MPCNC (Mostly Printed CNC) CNC router.
+This is a CNC controller specially designed to address the needs of the [MPCNC (Mostly Printed CNC) CNC Router](https://www.v1engineering.com/specifications/).
 
 ### Features
 
@@ -49,3 +49,9 @@ There are no commercial restrictions on using this design, but you must attribut
 
 - DipTrace Source
 - Gerber Files
+
+### Donation
+
+This project requires a lot of work and often expensive items for testing. Please consider a safe, secure and highly appreciated donation via the PayPal link below.
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TKNJ9Z775VXB2)
