@@ -37,7 +37,7 @@ They are available at the following links or you can source it yourself.
 
 ### Usage Instructions
 
-See the wiki.
+[See the wiki](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/wiki)
 
 ### License
 
@@ -47,8 +47,10 @@ There are no commercial restrictions on using this design, but you must attribut
 
 ### Source Files
 
-- DipTrace Source
-- Gerber Files
+- [Firmware](https://github.com/bdring/Grbl_Esp32)
+- [DipTrace Source](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/tree/master/source)
+- [Gerber Files](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/tree/master/gerbers)
+- [Schematic](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/blob/master/gerbers/schematic.pdf)
 
 ### Donation
 
