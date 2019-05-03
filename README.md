@@ -33,7 +33,7 @@ This is a CNC controller specially designed to address the needs of the [MPCNC (
 
 They are available at the following links or you can source it yourself.
 
-- Tindie (coming soon)
+- [Tindie](https://www.tindie.com/products/33366583/grbl_esp32-mpcnc-cnc-controller/)
 
 ### Usage Instructions
 
