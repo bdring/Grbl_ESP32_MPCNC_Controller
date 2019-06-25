@@ -45,6 +45,13 @@ Creative Commons Attribution - ShareAlike 4.0 International
 
 There are no commercial restrictions on using this design, but you must attribute the design to Bart Dring or @buildlog. You must also publish any changes or improvements to the design with the same open source license.  
 
+### Version History
+
+- Version 1.1 Original upload
+- Version 1.2
+  - Removed R/C filters on limit switches. This was not working for everyone. A firmware debouncing feature was added.
+  - Made GPIO2 and output. Some dev modules have trouble with this as an input. Shuffled a few pins to accomodate this change. 
+
 ### Source Files
 
 - [Firmware](https://github.com/bdring/Grbl_Esp32)
