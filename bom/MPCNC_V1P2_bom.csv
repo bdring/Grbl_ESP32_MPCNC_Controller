@@ -1,5 +1,5 @@
 RefDes,Description,Value,Manufacturer,Mfg P/N,Link
-"C1, C2, C3, C9","Capacitor, Electrolytic",47u 35V,Nichicon,UWX1V470MCL1GB,https://www.digikey.com/short/p80qq5
+"C1, C2, C3, C5, C9","Capacitor, Electrolytic",47u 35V,Nichicon,UWX1V470MCL1GB,https://www.digikey.com/short/p80qq5
 "C1","Capacitor, Ceramic",100nF 50V,Kemet,C0805C104K5RACAUTO,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET_C0805C104K5RACAUTO_100nF-104-10-50V-Car-level_C129641.html
 C7,"Capacitor, Ceramic",22uF 6.3V,Taiyo Yuden,JMK316BJ226KL-T,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TAIYO-YUDEN_JMK316BJ226KL-T_22uF-226-10-6-3V_C92791.html
 C8,"Capacitor, Ceramic",10uF,Taiyo Yuden,GMK316BJ106KL-T,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-GMK316BJ106KL-T_C92797.html
