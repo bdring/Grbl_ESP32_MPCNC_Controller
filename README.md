@@ -51,6 +51,10 @@ There are no commercial restrictions on using this design, but you must attribut
 - Version 1.2
   - Removed R/C filters on limit switches. This was not working for everyone. A firmware debouncing feature was added.
   - Made GPIO2 and output. Some dev modules have trouble with this as an input. Shuffled a few pins to accomodate this change. 
+- Version 1.2.1
+  - Changed orientation of relay for better layout
+  - Removed pull down resistor on spindle PWM circuit (it was never installed previously)
+  - Note: This uses the same cpu_map ans V1.2
 
 ### Source Files
 
