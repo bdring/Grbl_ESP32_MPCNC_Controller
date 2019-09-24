@@ -1,0 +1,25 @@
+RefDes,Description,Value,Manufacturer,Mfg P/N,Link
+"C1, C2, C3, C5, C9","Capacitor, Electrolytic",47u 35V,Nichicon,UWX1V470MCL1GB,https://www.digikey.com/short/p80qq5
+"C4","Capacitor, Ceramic",100nF 50V,Kemet,C0805C104K5RACAUTO,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET_C0805C104K5RACAUTO_100nF-104-10-50V-Car-level_C129641.html
+"C6","Capacitor, Ceramic",10uF,Taiyo Yuden,GMK316BJ106KL-T,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-GMK316BJ106KL-T_C92797.html
+C7,"Capacitor, Ceramic",22uF 6.3V,Taiyo Yuden,JMK316BJ226KL-T,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TAIYO-YUDEN_JMK316BJ226KL-T_22uF-226-10-6-3V_C92791.html
+C8,"Capacitor, Ceramic",150pF 50v 0805,CCTC,TCC0805X7R151K500BT,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0805X7R151K500BT_C282743.html
+"D1, D2, D3","Diode, Schottkey","diode, Schottkey 3A",(MDD) Jiangsu Yutai Elec,(MDD) Jiangsu Yutai Elec,https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Jiangsu-Yutai-Elec-B340A_C64982.html
+J1,"Connector, Header","Header Male 1x8 0.1""",Nextronics Engineering,Z-211-0811-0021-001,https://lcsc.com/product-detail/Others_Nextronics-Engineering-Z-211-0811-0021-001_C190820.html
+"J2, J4, J6, J7, J9, J11","Connector, Header","Header Male 1x4 0.1""",TE Connectivity,,https://lcsc.com/product-detail/Male-Header_2-54mm-1-4P-HeaderG-FRegular_C152150.html
+J3,"Connector, Header","Header Male 2x5 0.1""",Nextronics Engineering,Z-21310110021001,https://lcsc.com/product-detail/PCB-Connectors-Headers-Male-Pins_Nextronics-Engineering-Z-21310110021001_C115170.html
+J8,"Connector, Header","Header Male 1x2 0.1""",Nextronics Engineering,Z-211-0211-0021-001,https://lcsc.com/product-detail/Male-Header_2-54mm-1-2P-Header-G-FRegular_C152154.html
+J10,"Socket, Micro SD",Micro SD Socket,Korean Hroparts Elec TF-01A,TF-01A,https://lcsc.com/product-detail/Connector-Card-Sockets_Korean-Hroparts-Elec-TF-01A_C91145.html
+K1,Relay,Relay 5V SPDT,Ningbo Songle Relay,SRD-05VDC-SL-C,https://lcsc.com/product-detail/Relays_SRD-05VDC-SL-C_C35449.html
+L1,Inductor,Inductor 4.7uH 5.5A,Chilisin Elec,MHCI06030-4R7M-R8,https://lcsc.com/product-detail/Power-Inductors_Chilisin-Elec-MHCI06030-4R7M-R8_C108295.html
+Q1,Transistor,NPN Transistor 0.5A,Semtech ,MMBT9013H,https://lcsc.com/product-detail/Transistors-NPN-PNP_MMBT9013H_C81408.html
+"R1, R2, R3, R4, R10",Resistor,10k,YAGEO,AC0805FR-0710KL,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C140868.html
+"R5",Resistor,1K,YAGEO,AC0805FR-071KL,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_1KR-1001-1_C140870.html
+R6,Resistor,210k,YAGEO,AC0805FR-07210KL,https://lcsc.com/product-detail/Others_YAGEO-AC0805FR-07210KL_C228629.html
+R7,Resistor,40.2k,YAGEO,AC0805FR-0740K2L,https://lcsc.com/product-detail/Others_YAGEO-AC0805FR-0740K2L_C228820.html
+"R8, R9",Resistor,100k,YAGEO,AC0805FR-07100KL,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_100KR-1003-1_C144587.html
+"TB1, TB2",Terminal Block,Terminal Block 1x2 5mm Blue,Aliexpress,,"https://www.aliexpress.com/item/Free-Shipping-5-08-301-2P-301-2P-500PCS-2-Pin-Screw-Terminal-Block-Connector-5mm/1681835880.html?spm=2114.search0104.3.124.196c5399CzqTi9&ws_ab_test=searchweb0_0,searchweb201602_7_10065_10130_10068_10890_10547_319_10546_317_10548_10545_10696_453_10084_454_10083_10618_10307_537_536_10902_10059_10884_10887_321_322_10103,searchweb201603_58,ppcSwitch_0&algo_expid=2a6b09c7-a7e4-4a9d-9187-76ae88ebf6eb-18&algo_pvid=2a6b09c7-a7e4-4a9d-9187-76ae88ebf6eb"
+"U1, J5","Connector, Header","ESP-32 Header Female 1x19 0.1""",,,"https://www.aliexpress.com/item/100Pcs-Per-Lot-2-54mm-Pitch-1x19-Pin-19-Pin-Female-Single-Row-Straight-Header-Strip/32760221364.html?spm=2114.search0104.3.2.68392db629Gevc&ws_ab_test=searchweb0_0,searchweb201602_7_10065_10130_10068_10890_10547_319_10546_317_10548_10545_10696_453_10084_454_10083_10618_10307_537_536_10902_10059_10884_10887_321_322_10103,searchweb201603_58,ppcSwitch_0&algo_expid=6c4c5b8f-d7fb-440b-b8e7-38060cec017f-0&algo_pvid=6c4c5b8f-d7fb-440b-b8e7-38060cec017f"
+"U2, U3, U4, U5, U7","Connector, Header","Header Female 1x8 0.1""",,,https://lcsc.com/product-detail/Female-Header_2-54mm-1-8P-Straight-Female-header_C27438.html
+U6,DC-DC Power Supply Controller,MP1584EN,Monolithic Power Systems,MP1584EN-LF-Z,https://lcsc.com/product-detail/DC-DC-Converters_MPS_MP1584EN-LF-Z_MP1584EN-LF-Z_C15051.html
+U8,Voltage level Shifter,TXS0101DBVR,TI,TXS0101DBVR,https://lcsc.com/product-detail/Logic-ICs_TI_TXS0101DBVR_TXS0101DBVR_C132604.html
