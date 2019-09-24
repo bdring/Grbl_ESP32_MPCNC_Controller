@@ -1,6 +1,6 @@
 # MPCNC Grbl_ESP32 Controller
 
-![MPCNC Controller Image](http://www.buildlog.net/blog/wp-content/uploads/2019/04/20190414_115605_clipped_rev_1.png)
+![MPCNC Controller Image](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/blob/master/images/v1p2p1_pcba.jpg)
 
 
 
